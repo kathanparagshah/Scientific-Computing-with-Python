@@ -1,4 +1,4 @@
-from main import arithmetic_arranger
+from  import arithmetic_arranger
 
 # Test the current implementation
 problems = ["11 + 4", "3801 - 2999", "1 + 2", "123 + 49", "1 - 9380"]
